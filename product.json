@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" The Witcher",
+        "price": 1200,
+        "image": "the_witcher.jpg"
+    },
+    {
+        "id": 2,
+        "name":" The Davinci Code",
+        "price": 1500,
+        "image": "the_davinci_code.jpg"
+    },
+    {
+        "id": 3,
+        "name":" The Divine Comedy",
+        "price": 1290,
+        "image": "the_divine_comedy.jpg"
+    },
+    {
+        "id": 4,
+        "name":" The Dutch House",
+        "price": 2500,
+        "image": "the_dutch_house.jpg"
+    },
+    {
+        "id": 5,
+        "name":" The fallen stars ",
+        "price": 1200,
+        "image": "the_fallen_stars.jpg"
+    },
+    {
+        "id": 6,
+        "name":" The final empire",
+        "price": 1999,
+        "image": "the_final_empire.jpg"
+    },
+    {
+        "id": 7,
+        "name":"The hunger games",
+        "price": 999,
+        "image": "the_hunger_games.jpg"
+    },
+    {
+        "id": 8,
+        "name":"The_lord_of_the_rings",
+        "price": 1999,
+        "image": "the_lord_of_the_rings.jpg"
+    }
+
+]
